@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DataBindingRecyclerView</string>
+
+    <string-array name="names">
+        <item>Fruit 1</item>
+        <item>Fruit 2</item>
+        <item>Fruit 3</item>
+        <item>Fruit 4</item>
+        <item>Fruit 5</item>
+        <item>Fruit 6</item>
+        <item>Fruit 7</item>
+        <item>Fruit 8</item>
+        <item>Fruit 9</item>
+        <item>Fruit 10</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>This is Fruit 1</item>
+        <item>This is Fruit 2</item>
+        <item>This is Fruit 3</item>
+        <item>This is Fruit 4</item>
+        <item>This is Fruit 5</item>
+        <item>This is Fruit 6</item>
+        <item>This is Fruit 7</item>
+        <item>This is Fruit 8</item>
+        <item>This is Fruit 9</item>
+        <item>This is Fruit 10</item>
+    </string-array>
+</resources>
